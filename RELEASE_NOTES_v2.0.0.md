@@ -1,6 +1,6 @@
 # Cipher Video Downloader Version 2.0.0
 
-Cipher Video Downloader Version 2.0.0 is a major desktop refresh built on the new Qt interface.
+Cipher Video Downloader Version 2.0.0 includes the Qt desktop refresh plus persistent tray behavior, maximized startup, and an updated Chrome companion extension.
 
 ## What's New
 
@@ -11,7 +11,7 @@ Cipher Video Downloader Version 2.0.0 is a major desktop refresh built on the ne
 - recent results and active transfer areas polished for faster scanning
 - queue and app state persistence across restart
 - action toasts and an About dialog added for a more finished experience
-- Chrome extension updated to match the new branding and version
+- Chrome companion extension updated with floating handoff, playback prompt support, and refreshed companion branding
 
 ## Download
 

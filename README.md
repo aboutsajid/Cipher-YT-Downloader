@@ -8,12 +8,12 @@ This repository still uses the older GitHub repo name `Cipher-YT-Downloader`, bu
 
 Cipher Video Downloader is a Windows desktop downloader built for a faster, cleaner media workflow.
 
-The current `Version 2.0.0` release moves the app to a new PySide6 desktop UI and adds a more polished Downloads-first experience:
+The current `Version 2.0.0` release keeps the Qt desktop UI and adds tray persistence, maximized launch behavior, and refreshed extension branding:
 - redesigned `Downloads` page with preview, active transfer, queue, and recent results
 - light mode and dark mode
 - queue persistence and general app-state persistence
 - toast feedback, About dialog, and cleaner branding
-- updated Chrome extension companion for YouTube handoff
+- updated Chrome companion extension for browser handoff into the desktop app
 - broader real-world support through `yt-dlp`, while keeping the browser extension focused on YouTube
 
 ## Tech Stack
@@ -88,7 +88,7 @@ The companion extension lives in:
 cipher_chrome_extension
 ```
 
-It is now branded as `Cipher Video Downloader for YouTube`.
+It is now branded as `Cipher Video Downloader Companion`.
 
 ## Notes
 
