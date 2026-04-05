@@ -78,6 +78,7 @@ This builds the `Version 2.0.0` Windows executable with:
 - bundled app assets
 - bundled `yt-dlp`
 - bundled `FFmpeg`
+- bundled unpacked Chrome companion extension folder for manual loading in Chrome
 - Windows version metadata
 
 ## Chrome Extension
@@ -89,6 +90,12 @@ cipher_chrome_extension
 ```
 
 It is now branded as `Cipher Video Downloader Companion`.
+
+Installer users can also load the bundled unpacked extension from:
+
+```text
+%LOCALAPPDATA%\Programs\Cipher Video Downloader\Chrome Extension\Cipher Video Downloader Companion
+```
 
 ## Notes
 
